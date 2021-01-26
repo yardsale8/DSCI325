@@ -1,0 +1,74 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Births
+	"Alabama"	"01"	"2019"	"2019"	58292
+	"Alaska"	"02"	"2019"	"2019"	9148
+	"Arizona"	"04"	"2019"	"2019"	78020
+	"Arkansas"	"05"	"2019"	"2019"	36169
+	"California"	"06"	"2019"	"2019"	441421
+	"Colorado"	"08"	"2019"	"2019"	61134
+	"Connecticut"	"09"	"2019"	"2019"	33941
+	"Delaware"	"10"	"2019"	"2019"	10304
+	"District of Columbia"	"11"	"2019"	"2019"	8967
+	"Florida"	"12"	"2019"	"2019"	216112
+	"Georgia"	"13"	"2019"	"2019"	125133
+	"Hawaii"	"15"	"2019"	"2019"	16442
+	"Idaho"	"16"	"2019"	"2019"	20822
+	"Illinois"	"17"	"2019"	"2019"	139203
+	"Indiana"	"18"	"2019"	"2019"	78743
+	"Iowa"	"19"	"2019"	"2019"	37087
+	"Kansas"	"20"	"2019"	"2019"	34643
+	"Kentucky"	"21"	"2019"	"2019"	52199
+	"Louisiana"	"22"	"2019"	"2019"	58683
+	"Maine"	"23"	"2019"	"2019"	11518
+	"Maryland"	"24"	"2019"	"2019"	69214
+	"Massachusetts"	"25"	"2019"	"2019"	68539
+	"Michigan"	"26"	"2019"	"2019"	106215
+	"Minnesota"	"27"	"2019"	"2019"	64466
+	"Mississippi"	"28"	"2019"	"2019"	36451
+	"Missouri"	"29"	"2019"	"2019"	70422
+	"Montana"	"30"	"2019"	"2019"	10639
+	"Nebraska"	"31"	"2019"	"2019"	24616
+	"Nevada"	"32"	"2019"	"2019"	34479
+	"New Hampshire"	"33"	"2019"	"2019"	11542
+	"New Jersey"	"34"	"2019"	"2019"	98926
+	"New Mexico"	"35"	"2019"	"2019"	22440
+	"New York"	"36"	"2019"	"2019"	218297
+	"North Carolina"	"37"	"2019"	"2019"	117112
+	"North Dakota"	"38"	"2019"	"2019"	10308
+	"Ohio"	"39"	"2019"	"2019"	132050
+	"Oklahoma"	"40"	"2019"	"2019"	48408
+	"Oregon"	"41"	"2019"	"2019"	40436
+	"Pennsylvania"	"42"	"2019"	"2019"	129314
+	"Rhode Island"	"44"	"2019"	"2019"	10124
+	"South Carolina"	"45"	"2019"	"2019"	56224
+	"South Dakota"	"46"	"2019"	"2019"	11355
+	"Tennessee"	"47"	"2019"	"2019"	79154
+	"Texas"	"48"	"2019"	"2019"	372156
+	"Utah"	"49"	"2019"	"2019"	45364
+	"Vermont"	"50"	"2019"	"2019"	5227
+	"Virginia"	"51"	"2019"	"2019"	96085
+	"Washington"	"53"	"2019"	"2019"	81831
+	"West Virginia"	"54"	"2019"	"2019"	17950
+	"Wisconsin"	"55"	"2019"	"2019"	61281
+	"Wyoming"	"56"	"2019"	"2019"	6422
+"---"
+"Dataset: Natality, 2007-2019"
+"Query Parameters:"
+"Birthplace: In Hospital"
+"Year: 2019"
+"Group By: State; Year"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Jan 26, 2021 10:47:48 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2007-2019, on CDC"
+"WONDER Online Database, October 2020. Accessed at http://wonder.cdc.gov/natality-current.html on Jan 26, 2021 10:47:48 AM"
+"---"
+Caveats:
+"1. Each birth record represents one living baby."
